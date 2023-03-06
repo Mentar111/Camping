@@ -25,18 +25,13 @@ img{
   
 }
 
-
-p{
-
-    width: 50%;
-    height: 700px;
-    font-size: 100px;
-}
 .logo{
-    width: 25px;
-    height: 25px;
-    font-size: 25px;
-    z-index: 1;
+    TOP: -4PX;
+    width: 107px;
+    height: 92px;
+    z-index: 2;
+    POSITION: absolute;
+
 }
 
 .cf:before, .cf:after {
@@ -58,6 +53,8 @@ p{
     position: absolute;
     position: fixed;
     top: 0;
+    left: 37vw;
+
   }
   .menu > li {
     background: #34495e;
