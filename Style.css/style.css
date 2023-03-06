@@ -1,0 +1,32 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+.container{
+    width: 100vw;
+    height: 1280px;
+   
+}
+img{
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+p{
+
+    width: 50%;
+    height: 700px;
+    font-size: 100px;
+}
+.logo{
+    width: 25px;
+    height: 25px;
+    font-size: 25px;
+    z-index: 1;
+}
