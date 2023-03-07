@@ -57,7 +57,7 @@ img{
 
   }
   .menu > li {
-    background: #34495e;
+    background: #806801;
     float: left;
     position: relative;
     -webkit-transform: skewX(25deg);
@@ -87,7 +87,7 @@ img{
     -webkit-transform-origin: left top;
   }
   .submenu li {
-    background-color: #34495e;
+    background-color: #806801;
     position: relative;
     overflow: hidden;
   }
